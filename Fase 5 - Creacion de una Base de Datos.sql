@@ -3,8 +3,8 @@ USE proyecto_cinemextract;
 
 -- FASE 1: Tabla para almacenar información sobre películas.
 CREATE TABLE Peliculas (
-    Id INTEGER AUTO_INCREMENT PRIMARY KEY,
-    Tipo VARCHAR(20),
+    Id_Pelicula VARCHAR(10) AUTO_INCREMENT PRIMARY KEY,
+    Tipo VARCHAR(10),
     Nombre VARCHAR(50),
     Año INTEGER,
     Mes INTEGER
@@ -12,14 +12,13 @@ CREATE TABLE Peliculas (
 
 -- FASE 2: Tabla para almacenar información detallada sobre películas.
 CREATE TABLE Detalles_Peliculas (
-    Id INTEGER AUTO_INCREMENT PRIMARY KEY,
-    Id_Pelicula INTEGER,
+    Id_Pelicula VARCHAR(10) AUTO_INCREMENT PRIMARY KEY,
     Puntuacion_IMDB FLOAT,
     Puntuacion_Rotten_Tomatoes INTEGER,
     Director VARCHAR(50),
     Guionistas VARCHAR(100),
     Argumento TEXT,
-    Duracion TEXT,
+    Duracion VARCHAR(10),
     FOREIGN KEY (Id_Pelicula) REFERENCES Peliculas(Id)
 );
 
@@ -45,7 +44,6 @@ CREATE TABLE Premios_Oscar (
 CREATE TABLE Actores_Peliculas (
     Id_Actor INTEGER,
     Id_Pelicula INTEGER,
-    Rol VARCHAR(10),
     PRIMARY KEY (Id_Actor, Id_Pelicula),
     FOREIGN KEY (Id_Actor) REFERENCES Actores(Id),
     FOREIGN KEY (Id_Pelicula) REFERENCES Peliculas(Id)
