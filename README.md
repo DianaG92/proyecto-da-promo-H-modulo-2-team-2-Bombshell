@@ -1,5 +1,4 @@
-# proyecto-da-promo-H-modulo-2-team-2-Bombshell
-Proyecto Bombshell
+#Proyecto Bombshell
 
 Nos contacto BHO, la plataforma de transmisión, quien está en una continua exploración para mejorar la excelencia de su material y la felicidad de sus usuarios.
 
