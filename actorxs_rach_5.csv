@@ -1,0 +1,418 @@
+,nombre_peli,nombre_actxr,conocido_por,year_nacimiento,profesiones_string,premios
+0,Payiz,Ammar Aghaei,"['Yek Ghete Aks', 'Payiz']",N/A,"Reparto, Dirección, Dirección de la segunda unidad o asistencia a dirección",N/A
+1,Payiz,Nasrin Babaei,"['Ghowl', 'Nahid']",N/A,Reparto,N/A
+2,Payiz,Pejman Bazeghi,"['Rhino Horn', 'The Man with Two Thousand Faces']",1974,"Reparto, Música",N/A
+3,Payiz,Mohammad Reza Fathi,"['Buffalo', 'Savar Dar Baran']",N/A,Reparto,N/A
+4,Payiz,Mohammad Rasoul Haghdoust,"['Payiz', 'Majoone Jadooyi']",N/A,Reparto,N/A
+5,Payiz,Nazanin Karimi,"['Dooshe Akhar', 'Dokhtare Shahe Parion']",N/A,"Reparto, Dirección, Guion",N/A
+6,Payiz,Akram Mahdavi,"['Payiz', 'Booria']",N/A,Reparto,N/A
+7,Payiz,Danial Mahmudnia,"['Khodaye Kaghaz', 'Payiz']",N/A,"Reparto, Dirección de la segunda unidad o asistencia a dirección, Dirección",N/A
+8,Tobu Aporichito,Indraneil Sengupta,"['Mishawr Rawhoshyo', 'Kahaani']",1974,"Reparto, Cámara y electricidad",1 premio y 6 nominaciones
+9,Tobu Aporichito,Paoli Dam,"['Bulbbul', 'Natoker Moto: Like a Play']",1980,"Reparto, Música",2 premios y 3 nominaciones
+10,Tobu Aporichito,Paran Banerjee,"['Bob Biswas', 'Double Feluda']",1940,"Reparto, Música",1 premio y 4 nominaciones
+11,Tobu Aporichito,Laboni Sarkar,"['Chander Pahar', 'Amazon Obhijaan']",1962,Reparto,N/A
+12,Tobu Aporichito,Kharaj Mukherjee,"['Patalghar', 'Special Chabbis']",1963,"Reparto, Música, Guion",2 premios y 1 nominación
+13,Tobu Aporichito,Biswajit Chakraborty,"['Mishawr Rawhoshyo', 'Byomkesh Bakshi']",1948,"Reparto, Equipos adicionales",N/A
+14,Tobu Aporichito,Biswanath Basu,"['Raavan', 'Teenkahon']",N/A,Reparto,N/A
+15,Tobu Aporichito,Parthasarathi Chakraborty,"['Jaaneman', 'Khiladi']",N/A,Reparto,Partho Sarathi Chakraborty
+16,L'ultimo passo del perdono,Lando Buzzanca,"['La chica de Parma', 'Seducida y abandonada']",1935,"Reparto, Equipos adicionales",2 premios y 1 nominación
+17,L'ultimo passo del perdono,Narcy Calamatta,"['Before Forgetting Everything', 'The Caravaggio Theft']",1939,"Reparto, Producción",N/A
+18,The Merchant of Venice,Dominic Mafham,"['Ofelia', 'Golda']",1968,Reparto,1 nominación
+19,The Merchant of Venice,Brian Martin,"['El régimen', 'Mi policía']",N/A,"Reparto, Guion, Producción",1 nominación
+20,The Merchant of Venice,Regé-Jean Page,"['Raíces', 'Dungeons & Dragons: Honor entre ladrones']",enero,"Reparto, Producción, Banda sonora",4 premios y 12 nominaciones en total
+21,The Merchant of Venice,Daniel Lapaine,"['Catastrophe', 'Black Mirror']",1971,"Reparto, Dirección, Guion",N/A
+22,The Merchant of Venice,Ben Lamb,"['Divergente', 'Ahora me ves 2']",enero,Reparto,N/A
+23,The Merchant of Venice,David Sturzaker,"[""Da Vinci's Demons"", 'Doctors']",N/A,"Reparto, Producción",N/A
+24,The Merchant of Venice,Rachel Pickup,"['Wonder Woman', 'Cazatesoros']",1973,Reparto,N/A
+25,The Merchant of Venice,Dorothea Myer-Bennett,"['The Payback', 'The Merchant of Venice']",N/A,Reparto,N/A
+26,The Lost Color,Regé-Jean Page,"['Raíces', 'Dungeons & Dragons: Honor entre ladrones']",enero,"Reparto, Producción, Banda sonora",4 premios y 12 nominaciones en total
+27,The Bronx Bull,William Forsythe,"['Arizona Baby', 'Los renegados del diablo']",1955,"Reparto, Producción, Guion",7 premios y 1 nominación
+28,The Bronx Bull,Joe Mantegna,"['El padrino parte III', 'En busca de Bobby Fischer']",1947,"Reparto, Producción, Dirección",12 premios y 10 nominaciones en total
+29,The Bronx Bull,Tom Sizemore,"['Salvar al soldado Ryan', 'Black Hawk derribado']",1961,"Reparto, Producción, Guion",N/A
+30,The Bronx Bull,Paul Sorvino,"['Repo! The Genetic Opera', 'Uno de los nuestros']",1939,"Reparto, Dirección, Producción",15 premios y 4 nominaciones
+31,The Bronx Bull,Penelope Ann Miller,"['Atrapado por su pasado', 'The Artist']",1964,"Reparto, Banda sonora",2 premios y 7 nominaciones
+32,The Bronx Bull,Mojean Aria,"['El protector', 'Shayda']",N/A,"Reparto, Producción, Guion",3 premios y 2 nominaciones
+33,The Bronx Bull,Ray Wise,"['Batman: La broma asesina', 'Dead End: Atajo al infierno']",1947,"Reparto, Banda sonora",5 premios y 8 nominaciones
+34,The Bronx Bull,Natasha Henstridge,"['Species (Especie mortal)', 'Fantasmas de Marte de John Carpenter']",1974,"Reparto, Producción, Banda sonora",5 premios y 3 nominaciones
+35,Kotei no hebi,Mika Kuroiwa,['Kotei no hebi'],N/A,Reparto,N/A
+36,Kotei no hebi,Midori Kimura,"['Supai Zoruge', 'Okashi dori']",1943,Reparto,N/A
+37,Kotei no hebi,Hikari Shinoda,"['Kotei no hebi', 'Kodoku no gurume']",N/A,Reparto,N/A
+38,Kotei no hebi,Tatsuki Nishimoto,"['Kotei no hebi', 'Jun-kyôju Takatsuki Akira no suisatsu']",N/A,Reparto,N/A
+39,Kotei no hebi,Seiji Okabe,"['Saddo tî', 'Kotei no hebi']",N/A,Reparto,N/A
+40,Kotei no hebi,Kensaku Tamura,"['Broken', 'Kiwoku dorobô']",N/A,Reparto,N/A
+41,Bundesuriga,Yuji Kaneko,"['Bundesuriga', 'Yakô Kanransha']",N/A,Reparto,N/A
+42,Bundesuriga,Tadashi Aosaka,['Bundesuriga'],N/A,Reparto,N/A
+43,Bundesuriga,Kenta Enya,"['Tôkyô gikyoku', 'Bundesuriga']",N/A,Reparto,N/A
+44,Bundesuriga,Fumiko Kamei,['Bundesuriga'],N/A,Reparto,N/A
+45,Wnyki,Alicja Bach,"['Cuervo. Susurros en la oscuridad', 'Zmruz oczy']",N/A,Reparto,N/A
+46,Wnyki,Artur Barcis,"['No amarás', 'Ranczo']",1956,"Reparto, Dirección",N/A
+47,Wnyki,Andrzej Beja-Zaborski,"['U Pana Boga za piecem', 'Dzien swira']",1951,Reparto,1 premio
+48,Wnyki,Jaroslaw Borowski,"['Un océano entre nosotros', 'Wnyki']",N/A,"Reparto, Equipos adicionales",N/A
+49,Wnyki,Stanislawa Celinska,"['Fuks', 'Pieniadze to nie wszystko']",1947,"Reparto, Banda sonora",4 premios y 3 nominaciones
+50,Wnyki,Grzegorz Daukszewicz,"['Na dobre i na zle', 'Maszyna Goldberga']",1985,Reparto,N/A
+51,Wnyki,Julianna Dorosz,"['Wnyki', 'Teatr Telewizji']",N/A,Reparto,N/A
+52,Wnyki,Bozena Dykiel,"['Niezwykla podróz Baltazara Kobera', 'Mokry szmal']",1948,"Reparto, Banda sonora",B. Dykiel
+53,London Love Story,Michelle Ziudith,"['Remember When', ""Mekah I'm Coming""]",N/A,"Reparto, Banda sonora",N/A
+54,London Love Story,Dimas Anggara,"['Dancing in the Rain', 'The Night Comes for Us']",N/A,"Reparto, Dirección, Producción",1 premio
+55,London Love Story,Adilla Fitri,"['Kurban: Budak Iblis', 'London Love Story']",N/A,Reparto,N/A
+56,London Love Story,Dion Wiyoko,"['Cek Toko Sebelah', 'Terbang: Menembus Langit']",N/A,Reparto,N/A
+57,London Love Story,Ramzi,"['Garuda di Dadaku', 'Magic Hour']",N/A,Reparto,N/A
+58,London Love Story,Yunita Siregar,"['Ratu Adil', 'Mendung Tanpo Udan']",N/A,Reparto,N/A
+59,London Love Story,Aaron Ashab,"['London Love Story', 'Slank Nggak Ada Matinya']",N/A,Reparto,N/A
+60,London Love Story,Ina Marika,"['Cupcake untuk Rain', '90 Hari Mencari Suami']",N/A,Reparto,N/A
+61,Dreams,Fauzi Baadila,"['Tentang Dia', 'Pertaruhan']",1979,Reparto,Fauzi
+62,Dreams,Krosboi Band,['Dreams'],N/A,Reparto,N/A
+63,Dreams,Jodhy Bejo,['Dreams'],N/A,Reparto,N/A
+64,Dreams,Nimaz Dewantary,"['I Love You, Om...', 'Dreams']",N/A,Reparto,N/A
+65,Dreams,Ade Irawan,"['Jaka Swara', 'Gita Cinta dari SMA']",1937,Reparto,Adek Irawan
+66,Dreams,Fatin Shidqia Lubis,"['Dreams', '99 Cahaya di Langit Eropa']",N/A,"Reparto, Banda sonora",N/A
+67,Dreams,Mathias Muchus,"['Toba Dreams', 'Pengejar Angin']",1957,"Reparto, Dirección, Guion",N/A
+68,Dreams,Morgan Oey,"['The Night Comes for Us', 'Koki-Koki Cilik']",N/A,"Reparto, Banda sonora",3 premios y 2 nominaciones
+69,Melbourne Rewind,Morgan Oey,"['The Night Comes for Us', 'Koki-Koki Cilik']",N/A,"Reparto, Banda sonora",3 premios y 2 nominaciones
+70,Melbourne Rewind,Pamela Bowie,"['Mars Met Venus (Part Cewe)', 'Mars and Venus (Collabs Version)']",N/A,Reparto,N/A
+71,Melbourne Rewind,Walter Moeremans,"['De bossen van Vlaanderen', 'Johan en de Alverman']",1940,"Reparto, Dirección","(divorciado, 2 niños)"
+72,Melbourne Rewind,Jovial Da Lopez,"['Ciegos de amor', 'Youtubers']",N/A,"Reparto, Guion, Producción",N/A
+73,Melbourne Rewind,Olga Lydia,"['Rectoverso', '12:00 A.M.']",N/A,"Reparto, Producción, Dirección",N/A
+74,Melbourne Rewind,I.B. Made Oka Sugawa,"['Invalidite', 'Meet Me After Sunset']",N/A,Reparto,N/A
+75,Steadfast,Tayla Brennon,['Steadfast'],N/A,Reparto,N/A
+76,Steadfast,Natalie Carroll,['Steadfast'],N/A,Reparto,N/A
+77,Steadfast,James-Thomas Frank,['Steadfast'],N/A,Reparto,N/A
+78,Steadfast,Ashley King,['Steadfast'],N/A,Reparto,N/A
+79,Calle Cloverfield 10,John Goodman,"['Calle Cloverfield 10', 'Barton Fink']",1952,"Reparto, Producción, Banda sonora",33 premios y 76 nominaciones en total
+80,Calle Cloverfield 10,Mary Elizabeth Winstead,"['Calle Cloverfield 10', 'Scott Pilgrim contra el mundo']",1984,"Reparto, Producción, Banda sonora",N/A
+81,Calle Cloverfield 10,John Gallagher Jr.,"['Calle Cloverfield 10', 'Las vidas de Grace']",1984,"Reparto, Producción, Banda sonora",3 nominaciones
+82,Calle Cloverfield 10,Douglas M. Griffin,"['Hap and Leonard', 'Maggie']",1966,Reparto,N/A
+83,Calle Cloverfield 10,Suzanne Cryer,"['Silicon Valley', 'Seinfeld']",1967,Reparto,1 nominación
+84,Calle Cloverfield 10,Bradley Cooper,"['Ha nacido una estrella', 'El lado bueno de las cosas']",1975,"Reparto, Producción, Dirección",71 premios y 283 nominaciones en total
+85,Calle Cloverfield 10,Sumalee Montano,"['Calle Cloverfield 10', 'The Deal']",agosto,"Reparto, Producción, Equipo ejecutivo",2 premios y 13 nominaciones
+86,Calle Cloverfield 10,Frank Mottek,"['The Cloverfield Paradox', 'Calle Cloverfield 10']",N/A,"Reparto, Equipos adicionales",N/A
+87,Phire Dekha,John Gallagher Jr.,"['Calle Cloverfield 10', 'Las vidas de Grace']",1984,"Reparto, Producción, Banda sonora",3 nominaciones
+88,Pure Aspen Street,Gela Ackerman,"['The Quest of Aaron Adams', 'River City Heroes: Ascendance']",N/A,Reparto,N/A
+89,Pure Aspen Street,Jimmy DeTalente,"['Echo Rhyme', 'El Protector']",N/A,"Reparto, Equipos adicionales, Banda sonora",17 premios y 10 nominaciones
+90,Pure Aspen Street,Giavanna Harris,"['The House on Aspen Street', 'Narcolepsy']",N/A,"Reparto, Producción, Dirección de la segunda unidad o asistencia a dirección",N/A
+91,12 Days,Golab Adineh,"['Abji', 'Mehman-e maman']",1953,"Reparto, Dirección de la segunda unidad o asistencia a dirección",4 premios y 6 nominaciones
+92,Royahaye Abie Man,Ashkan Bazdar,"['Royahaye Abie Man', 'Batan Oushghoon']",N/A,Reparto,N/A
+93,Royahaye Abie Man,Farshad Fazeli Moghaddam,"['Father', 'The Alive Oak Tree']",N/A,"Dirección, Reparto, Producción",N/A
+94,Royahaye Abie Man,Sa'adat Ghazipoor,['Royahaye Abie Man'],N/A,"Dirección, Reparto, Guion",N/A
+95,Why I Eat Bread,Zach Bruce,['Why I Eat Bread'],N/A,Reparto,N/A
+96,Why I Eat Bread,Jonathan Hough,['Why I Eat Bread'],N/A,Reparto,N/A
+97,Why I Eat Bread,Claudia Muniz,"['Why I Eat Bread', 'Los dioses rotos']",N/A,Reparto,N/A
+98,Why I Eat Bread,Morgan Nichols,"['Blue Bloods', 'Vinyl']",N/A,"Reparto, Producción, Guion",3 premios y 2 nominaciones
+99,Why I Eat Bread,Jennifer Mya Polasky,"['Why I Eat Bread', 'Dying Alone']",N/A,Reparto,N/A
+100,Why I Eat Bread,Steven Rojas,"['Why I Eat Bread', 'Still Here']",N/A,"Reparto, Composición, Banda sonora",N/A
+101,Why I Eat Bread,Annapurna Sriram,"['Feral', 'Billions']",1989,"Reparto, Producción, Guion",2 premios y 1 nominación
+102,"Z, la ciudad perdida",Charlie Hunnam,"['Hijos de la anarquía', 'Pacific Rim']",1980,"Reparto, Producción, Guion",3 premios y 5 nominaciones
+103,"Z, la ciudad perdida",Robert Pattinson,"['Crepúsculo', 'The Batman']",1986,"Reparto, Producción, Guion",51 premios y 78 nominaciones
+104,"Z, la ciudad perdida",Sienna Miller,"['G.I. Joe', 'El francotirador']",1981,"Reparto, Equipos adicionales, Producción",5 premios y 24 nominaciones en total
+105,"Z, la ciudad perdida",Tom Holland,"['Spider-Man: Homecoming', 'Spider-Man: Lejos de casa']",1996,"Reparto, Producción, Dirección",N/A
+106,"Z, la ciudad perdida",Edward Ashley,"['Z, la ciudad perdida', 'The Terror']",N/A,"Reparto, Banda sonora",1 nominación
+107,"Z, la ciudad perdida",Angus Macfadyen,"['Equilibrium', 'Saw III']",1963,"Reparto, Guion, Dirección",1 premio y 9 nominaciones
+108,"Z, la ciudad perdida",Ian McDiarmid,"['Star Wars: Episodio III - La venganza de los sith', 'El retorno del jedi']",1944,"Reparto, Banda sonora",1 premio y 3 nominaciones
+109,"Z, la ciudad perdida",Clive Francis,"['La naranja mecánica', 'Secretos de Estado']",1946,"Reparto, Arte, Efectos visuales",1 premio y 1 nominación
+110,Life According to Rasheada II,Rochelle Bailey-Vaughan,"['The Queens Court', 'District Queens: The Racine Robinson Story']",N/A,Reparto,Rochelle Vaughan
+111,Life According to Rasheada II,Roderika Brown-Hicks,"['My Soulmate the Movie', 'Covered Silence']",N/A,"Reparto, Equipos adicionales",Roderika Davidson
+112,Life According to Rasheada II,Tonaee Burgess,"['Battered Emotions', 'Life According to Rasheada']",N/A,Reparto,N/A
+113,Life According to Rasheada II,Tiara Crystal,"['Queen of Hearts', 'Covered Silence']",N/A,Reparto,N/A
+114,Life According to Rasheada II,Duane Davis,"['Boss 2', 'Life According to Rasheada']",N/A,Reparto,N/A
+115,Life According to Rasheada II,Tanya Profound Galloway,"['Life According to Rasheada II', 'Residue']",N/A,Reparto,N/A
+116,Life According to Rasheada II,Lanae Gray,"['The Psychic', 'Baltimore Christmas Carol']",N/A,"Reparto, Producción",N/A
+117,Life According to Rasheada II,Cassie Hatten,"['Life According to Rasheada II', 'Handz Up']",N/A,Reparto,N/A
+118,Ada Cinta Di SMA,Iqbaal Dhiafakhri Ramadhan,"['Ali & the Queens', 'Bumi Manusia']",N/A,"Reparto, Banda sonora",1 premio y 6 nominaciones
+119,Ada Cinta Di SMA,Alvaro Maldini Siregar,"['Coboy Junior: The Movie', 'Ada Cinta Di SMA']",N/A,"Reparto, Banda sonora",Aldi Coboy Junior
+120,Ada Cinta Di SMA,Teuku Ryzki,"['Coboy Junior: The Movie', 'Ada Cinta Di SMA']",N/A,"Reparto, Banda sonora",Kiki Coboy Junior
+121,Ada Cinta Di SMA,Caitlin Halderman,"['Ada Cinta Di SMA', 'DreadOut']",N/A,"Reparto, Banda sonora",N/A
+122,Ada Cinta Di SMA,Gege Elisa,"['Bestie', 'Ada Cinta Di SMA']",N/A,Reparto,N/A
+123,Ada Cinta Di SMA,Agatha Chelsea,"['Ada Cinta Di SMA', 'Meet Me After Sunset']",2001,"Reparto, Banda sonora",N/A
+124,Ada Cinta Di SMA,Cassandra Lee,"['Ashiap Man', 'Ada Cinta Di SMA']",N/A,Reparto,N/A
+125,Ada Cinta Di SMA,Wulan Guritno,"['Dilema', 'Nada Untuk Asa']",1980,"Reparto, Producción, Guion",1 premio y 7 nominaciones
+126,Insecta,Andy Lafourcade,"['Een Donkere Reis', 'Insecta']",N/A,"Reparto, Dirección de fotografía y cámara",N/A
+127,Insecta,Camila de Santos,['Insecta'],N/A,Reparto,N/A
+128,Insecta,Fabián Vergara,"['Insecta', 'Insecta']",N/A,Reparto,N/A
+129,Tai fun gei,Fabián Vergara,"['Insecta', 'Insecta']",N/A,Reparto,N/A
+130,Tai fun gei,Carol Rojas,"['Insecta', 'Insecta']",N/A,Reparto,N/A
+131,Tai fun gei,Valentina Fuentes,"['Insecta', 'Insecta']",N/A,Reparto,N/A
+132,Tai fun gei,Wulan Guritno,"['Dilema', 'Nada Untuk Asa']",1980,"Reparto, Producción, Guion",1 premio y 7 nominaciones
+133,Cambio destinazione d'uso,Edoardo Siravo,"[""Cambio destinazione d'uso"", ""L'ultimo re""]",1955,"Reparto, Dirección, Guion",N/A
+134,Cambio destinazione d'uso,Massimo Reale,"['El talento de Mr. Ripley', ""Cambio destinazione d'uso""]",1966,"Reparto, Guion, Dirección",N/A
+135,Cambio destinazione d'uso,Silvia Siravo,"['La sombra de Caravaggio', ""Cambio destinazione d'uso""]",N/A,Reparto,N/A
+136,Cambio destinazione d'uso,Anna Teresa Rossini,"['A Roma con amor', 'Summer Night, Winter Moon']",1944,Reparto,N/A
+137,Cambio destinazione d'uso,Antonio Fornari,"['Ritorno al presente', 'Finché giudice non ci separi']",1972,"Reparto, Dirección, Guion",N/A
+138,Cambio destinazione d'uso,Gabriella Casali,"[""Cambio destinazione d'uso"", 'Amor sacro']",N/A,Reparto,N/A
+139,Cambio destinazione d'uso,Michele Degirolamo,"[""Cambio destinazione d'uso"", 'Amoreodio']",N/A,Reparto,N/A
+140,Golondrinas y amazonas,Bobby McCulloch,['Golondrinas y amazonas'],N/A,Reparto,N/A
+141,Golondrinas y amazonas,Dane Hughes,['Golondrinas y amazonas'],N/A,Reparto,N/A
+142,Golondrinas y amazonas,Kelly Macdonald,"['No es país para viejos', 'Gosford Park']",1976,"Reparto, Banda sonora",18 premios y 42 nominaciones en total
+143,Golondrinas y amazonas,Abbie Glozier,['Golondrinas y amazonas'],N/A,Reparto,N/A
+144,Golondrinas y amazonas,Megan Glozier,['Golondrinas y amazonas'],N/A,Reparto,N/A
+145,Golondrinas y amazonas,Teddie-Rose Malleson-Allen,"['Golondrinas y amazonas', 'Wisting']",N/A,Reparto,N/A
+146,Golondrinas y amazonas,Orla Hill,"['Golondrinas y amazonas', 'Una canción para Marion']",N/A,Reparto,N/A
+147,Golondrinas y amazonas,Andrew Scott,"['Desconocidos', 'Spectre']",1976,"Reparto, Producción, Banda sonora",N/A
+148,The Merchant of Venice,Jamie Walker,"['The Merchant of Venice', 'Macbeth']",N/A,"Reparto, Producción",N/A
+149,The Merchant of Venice,William Marshall,"[""Cinderella's Revenge"", 'War Above The Trenches']",1995,"Reparto, Producción, Sonido",7 premios
+150,The Merchant of Venice,Rebecca Jayne Slack,"['The Merchant of Venice', 'Macbeth']",N/A,"Reparto, Producción, Arte",N/A
+151,The Merchant of Venice,Shannon Barthorpe,"['The Merchant of Venice', 'Macbeth']",N/A,"Reparto, Producción",N/A
+152,The Merchant of Venice,Sean Payne,['The Merchant of Venice'],N/A,"Reparto, Producción",N/A
+153,Moya babusya Fani Kaplan,Katya Molchanova,"['Moya babusya Fani Kaplan', 'Hutsulka Ksenya']",N/A,"Reparto, Casting",3 nominaciones
+154,Moya babusya Fani Kaplan,Myroslav Slaboshpytskyi,"['The Tribe', 'Yaderni wydhody']",1974,"Dirección, Dirección de la segunda unidad o asistencia a dirección, Guion",33 premios y 22 nominaciones
+155,Moya babusya Fani Kaplan,Ivan Brovin,"['Kak zavesti zhenshchinu', 'Balet']",1983,Reparto,"1,77 m"
+156,Moya babusya Fani Kaplan,Aleksey Devotchenko,"['Moya babusya Fani Kaplan', 'Mayakovskiy. Dva dnya']",1965,Reparto,A. Devotchenko
+157,Moya babusya Fani Kaplan,Tetyana Kirshner-Retivova,['Moya babusya Fani Kaplan'],1929,N/A,N/A
+158,Moya babusya Fani Kaplan,Tetyana Retivova,['Moya babusya Fani Kaplan'],N/A,N/A,N/A
+159,Moya babusya Fani Kaplan,Natalya Nikulenko,"['El arca rusa', 'Moya babusya Fani Kaplan']",1964,Reparto,N/A
+160,Moya babusya Fani Kaplan,Vlad Troitskiy,"['Doghouse View from Above View from Below', 'Moya babusya Fani Kaplan']",N/A,"Reparto, Dirección, Guion",N/A
+161,Kismat 2,Kishor Khatiwada,"['Aarop', 'Dhuwani']",N/A,Reparto,N/A
+162,Dark Rainbow Part 3,Mark Baxter,"['Nekropolis', 'Dark Rainbow']",N/A,"Reparto, Producción, Dirección",N/A
+163,Dark Rainbow Part 3,Sam Baxter,"['Dark Rainbow', 'Dark Rainbow Part 3']",N/A,"Reparto, Dirección, Guion",N/A
+164,Dark Rainbow Part 3,Terri Baxter,['Dark Rainbow Part 3'],N/A,Reparto,N/A
+165,DaZe: Vol. Too (sic) - NonSeNse,Lawrence Abrams,"['DaZe: Vol. Too (sic) - NonSeNse', 'Devil on My Shoulder']",N/A,"Reparto, Arte, Composición",N/A
+166,DaZe: Vol. Too (sic) - NonSeNse,Arson,['DaZe: Vol. Too (sic) - NonSeNse'],N/A,"Reparto, Banda sonora",N/A
+167,DaZe: Vol. Too (sic) - NonSeNse,Gary Busey,"['La historia de Buddy Holly', 'Arma letal']",1944,"Reparto, Producción, Composición",5 premios y 8 nominaciones en total
+168,DaZe: Vol. Too (sic) - NonSeNse,Melina Chiaverini,"[""Ingénue d'Or"", 'Finishing the Game: The Search for a New Bruce Lee']",N/A,"Reparto, Producción, Guion",N/A
+169,DaZe: Vol. Too (sic) - NonSeNse,Kali Cook,"['The Haves and the Have Nots', 'The 27 Club']",N/A,"Reparto, Producción, Guion",N/A
+170,DaZe: Vol. Too (sic) - NonSeNse,Danny Cooksey,"['Terminator 2: El juicio final', 'Salute Your Shorts']",1975,"Reparto, Banda sonora",7 nominaciones
+171,DaZe: Vol. Too (sic) - NonSeNse,Danielle Cooper,"['Secretos', 'DaZe: Vol. Too (sic) - NonSeNse']",N/A,Reparto,N/A
+172,DaZe: Vol. Too (sic) - NonSeNse,Jeff Dean,"['DaZe: Vol. Too (sic) - NonSeNse', ""Don't Trust Yourself""]",1979,"Dirección de fotografía y cámara, Dirección, Producción",N/A
+173,Mi Amor,Parambrata Chattopadhyay,"['Kahaani', 'Shonar Pahar']",1980,"Reparto, Dirección, Producción",4 premios y 10 nominaciones
+174,Kavkazskoe trio,Andrey Da!,"['Slove', 'Dikiy']",1975,"Reparto, Dirección de casting","1,87 m"
+175,Kavkazskoe trio,Vano Dugladze,"['Tyler Rake 2', 'Tiflisi']",N/A,Reparto,N/A
+176,Kavkazskoe trio,Sergey Guzeev,"['El Método Meglin', 'Spacewalker']",1977,Reparto,S.Guzeyev
+177,Kavkazskoe trio,Georgiy Pipinashvili,"['Kavkazskoe trio', 'Queridos Camaradas']",N/A,Reparto,N/A
+178,Kavkazskoe trio,Stepan Puchinyan,"['Three seasons of love', 'Gangstery v okeane']",1927,"Dirección, Reparto, Guion",S. Puchinyan
+179,La notte delle verità,Laura Bitti,['La notte delle verità'],N/A,Reparto,N/A
+180,La notte delle verità,Adriano Cocci,['La notte delle verità'],N/A,Reparto,N/A
+181,La notte delle verità,Gabriella De Sisti,['La notte delle verità'],N/A,Reparto,N/A
+182,La notte delle verità,Giada Ferroni,['La notte delle verità'],N/A,Reparto,N/A
+183,La notte delle verità,Ludovico Giannisi,['La notte delle verità'],N/A,Reparto,N/A
+184,La notte delle verità,Matteo Goglini,['La notte delle verità'],N/A,Reparto,N/A
+185,La notte delle verità,Eros Palombi,['La notte delle verità'],N/A,Reparto,N/A
+186,La notte delle verità,Elena Parrini,['La notte delle verità'],N/A,Reparto,N/A
+187,Chhupam Chhaai,Akshat Jain,['Chhupam Chhaai'],N/A,Reparto,N/A
+188,Chhupam Chhaai,Sanket Chauhan,"['Khuda Haafiz: Chapter 2 - Agni Pariksha', 'Chhupam Chhaai']",N/A,"Arte, Reparto, Dirección de producción",N/A
+189,Chhupam Chhaai,Anshu Khatri,['Chhupam Chhaai'],N/A,Reparto,N/A
+190,Chhupam Chhaai,Purva Bhawsar,['Chhupam Chhaai'],N/A,Reparto,N/A
+191,Chhupam Chhaai,Raachit Kothari,['Chhupam Chhaai'],N/A,Reparto,N/A
+192,Chhupam Chhaai,Sanika Vyas,['Chhupam Chhaai'],N/A,Reparto,N/A
+193,Chhupam Chhaai,Atharva Vyas,['Chhupam Chhaai'],N/A,"Reparto, Dirección de producción",N/A
+194,Chhupam Chhaai,Dev Wadhwani,['Chhupam Chhaai'],N/A,Reparto,N/A
+195,Fanatic Love,Anshu Khatri,['Chhupam Chhaai'],N/A,Reparto,N/A
+196,Parmida,Atharva Vyas,['Chhupam Chhaai'],N/A,"Reparto, Dirección de producción",N/A
+197,Parmida,Dev Wadhwani,['Chhupam Chhaai'],N/A,Reparto,N/A
+198,A Portrait Asunder,Marco Abularach,"['Strays', 'A Portrait Asunder']",1962,Reparto,N/A
+199,A Portrait Asunder,Khaldoun Aldhalie,"['A Portrait Asunder', 'Disturbed']",N/A,"Dirección, Guion, Reparto",N/A
+200,A Portrait Asunder,Aryana Alexa,['A Portrait Asunder'],N/A,"Reparto, Maquillaje, Sonido",N/A
+201,A Portrait Asunder,Laisa Almanzar,"['A Portrait Asunder', 'BLACKBIRD a dream resurrected']",N/A,Reparto,N/A
+202,A Portrait Asunder,John Amedro,"['BLACKBIRD a dream resurrected', 'Todos mis hijos']",N/A,"Reparto, Producción, Guion",N/A
+203,A Portrait Asunder,Greg G. Bailey,['A Portrait Asunder'],N/A,Reparto,N/A
+204,A Portrait Asunder,Krystal Bannatyne,['A Portrait Asunder'],N/A,Reparto,N/A
+205,A Portrait Asunder,Rael Michael Clark,['A Portrait Asunder'],N/A,Reparto,N/A
+206,Inaiya Thalaimurai,Ashwin Kumar,['Inaiya Thalaimurai'],N/A,Reparto,N/A
+207,Inaiya Thalaimurai,Manishajith,"['Vindhai', 'Alti']",N/A,Reparto,N/A
+208,Day of Salvation,Luqman Agiya,"['Lion of Judah Legacy', 'Garra']",N/A,"Reparto, Equipos adicionales, Casting",Luqman A. Agiya
+209,Day of Salvation,Shelley Brietling,"['Game Day', 'A Slice of Chicago Romance']",N/A,"Reparto, Producción",N/A
+210,Day of Salvation,Jonathan Cross,"['Joey Pallamino', 'Goodbye Charlie Damien']",N/A,"Reparto, Cámara y electricidad, Guion",N/A
+211,Day of Salvation,Joseph Fee Sr.,['Day of Salvation'],N/A,Reparto,N/A
+212,Day of Salvation,William James Kelly,"['Celebrity Talk: With Liam Kelly & Joe Polito', 'With a Little Help']",N/A,"Reparto, Producción, Equipos adicionales",William J. Kelley
+213,Day of Salvation,Robert Paziora Sr.,"['Day of Salvation', 'Celebrity Talk: With Liam Kelly & Joe Polito']",N/A,"Cámara y electricidad, Reparto",N/A
+214,Day of Salvation,Tymere Richardson,['Day of Salvation'],N/A,Reparto,N/A
+215,A different me,Anar,"['Nasledie', 'Maskerad']",N/A,Reparto,Anar Halilov
+216,A different me,Aleksandr Korzhenkov,"['Una composición para el día de la victoria', 'A different me']",1958,Reparto,A. Korzhenkov
+217,SP Zero 15,Tadeu Amaral,"['SP Zero 15', 'Travessia']",N/A,Reparto,N/A
+218,SP Zero 15,Renan Bleastè,"['Maldita Lembrança', 'SP Zero 15']",1984,"Reparto, Dirección de fotografía y cámara, Sonido",N/A
+219,SP Zero 15,Eduardo Chagas,"['Ninjas', 'É Proibido Fumar']",N/A,Reparto,N/A
+220,SP Zero 15,Gisele Cruz,"['SP Zero 15', 'Batchan']",N/A,Reparto,N/A
+221,SP Zero 15,Ze da Ilha,"['SP Zero 15', 'A Mulher Barata']",N/A,Reparto,N/A
+222,SP Zero 15,Ruber Gonçalves,"['SP Zero 15', 'Os Barcos da Terra']",N/A,Reparto,N/A
+223,SP Zero 15,F.E. Kokocht,"['SP Zero 15', 'No Tempo dos Trogloditas']",N/A,"Reparto, Dirección de arte, Diseño de vestuario",N/A
+224,SP Zero 15,Nathalia Kwast,"['SP Zero 15', 'Seja Bem-Vindo!']",N/A,Reparto,N/A
+225,Frank & Lola,Michael Shannon,"['Take Shelter', 'Revolutionary Road']",1974,"Reparto, Producción, Dirección",36 premios y 100 nominaciones en total
+226,Frank & Lola,Imogen Poots,"['Vivarium', 'Green Room']",1989,"Reparto, Producción, Banda sonora",5 premios y 3 nominaciones
+227,Frank & Lola,Carlos Moreno Jr.,"['Coco', 'Frank & Lola']",diciembre,"Reparto, Producción, Guion",7 premios
+228,Frank & Lola,Maynor Alvarado,"['FBI', 'Anatomía de Grey']",N/A,Reparto,N/A
+229,Frank & Lola,Stella Schnabel,"['Van Gogh, a las puertas de la eternidad', 'Rampart']",1983,"Reparto, Producción, Guion",N/A
+230,Frank & Lola,Joel Virgel,"['Independence Day: Contraataque', '10.000']",N/A,"Reparto, Música, Equipos adicionales",N/A
+231,Frank & Lola,Charles Cantrell,"['Yule Tidings', 'Hollywood']",N/A,"Reparto, Edición, Cámara y electricidad",N/A
+232,Frank & Lola,Rosanna Arquette,"['Pulp Fiction', 'Buscando a Susan desesperadamente']",1959,"Reparto, Producción, Dirección",9 premios y 12 nominaciones en total
+233,Mejor... solteras,Dakota Johnson,"['Cincuenta sombras de Grey', 'La red social']",1989,"Reparto, Producción, Dirección",12 premios y 19 nominaciones en total
+234,Mejor... solteras,Rebel Wilson,"['Vuelta al insti', 'Jojo Rabbit']",1980,"Reparto, Guion, Producción",N/A
+235,Mejor... solteras,Leslie Mann,"['Lío embarazoso', 'No hay dos sin tres']",1972,Reparto,2 premios y 6 nominaciones
+236,Mejor... solteras,Damon Wayans Jr.,"['Big Hero 6', 'Los otros dos']",1982,"Reparto, Guion, Equipos adicionales",7 nominaciones
+237,Mejor... solteras,Anders Holm,"['Workaholics', '¡Game Over, tío!']",1981,"Reparto, Guion, Producción",2 premios y 2 nominaciones
+238,Mejor... solteras,Alison Brie,"['GLOW', 'Community']",1982,"Reparto, Producción, Guion",8 premios y 27 nominaciones
+239,Mejor... solteras,Nicholas Braun,"['Succession', 'Mejor... solteras']",1988,"Reparto, Guion, Producción",N/A
+240,Mejor... solteras,Jake Lacy,"['Carol', 'Obvious Child']",1986,"Reparto, Producción",1 premio y 8 nominaciones en total
+241,Joreopjeung,Pak Su Hyang,['Joreopjeung'],N/A,Reparto,N/A
+242,Kaifiyat,Nandita K.C.,"['Hami Tin Bhai', 'Kaifiyat']",N/A,Reparto,N/A
+243,Suddenly Komir,Giulio Baraldi,"['Reise nach Jerusalem', 'Suddenly Komir']",1971,"Producción, Reparto, Guion",N/A
+244,Sandikuthirai,Delhi Ganesh,"['Chennai Express', 'Pasi']",1944,"Reparto, Producción",1 premio
+245,Sandikuthirai,'Ganja' Karuppu,"['Naadodigal', 'Kalavani']",N/A,"Reparto, Producción",N/A
+246,Onbathilirindhu Pathu Varai,Kathir,['Onbathilirindhu Pathu Varai'],N/A,Reparto,N/A
+247,Onbathilirindhu Pathu Varai,Livingston,"['Kaakki Sattai', 'Channappa Channegowda']",1957,"Reparto, Guion",N/A
+248,Onbathilirindhu Pathu Varai,Crane Manohar,"['Baba', 'Villain']",N/A,Reparto,N/A
+249,Thanu Vachenanta,Crane Manohar,"['Baba', 'Villain']",N/A,Reparto,N/A
+250,Araku Road Lo,Vijay Bholenath,"['Omme Nishyabda Omme Yudda', ""Siv Saagar's LIFT""]",1976,"Producción, Reparto",N/A
+251,Araku Road Lo,Nikesha Patel,"['Komaram Puli', 'Om 3D']",1990,Reparto,N/A
+252,Araku Road Lo,Ballireddy Prudhviraj,"['Sindhooram', 'Jai Sena']",N/A,Reparto,N/A
+253,Araku Road Lo,Kovai Sarala,"['Kanchana: Muni 2', 'Mersal']",1962,"Reparto, Música, Banda sonora",4 premios y 5 nominaciones
+254,Romance with Finance,Shone Satheesh Babu,['Romance with Finance'],N/A,Reparto,N/A
+255,Romance with Finance,Chalaki Chanti,"['Aatagadharaa Siva', 'Dhagad Saamba']",1986,Reparto,N/A
+256,Aavu Puli Madhyalo Prabhas Pelli,Bhanusiri,['Aavu Puli Madhyalo Prabhas Pelli'],N/A,Reparto,N/A
+257,Aavu Puli Madhyalo Prabhas Pelli,Ashwini Chandrashekar,"['Ondhu Romantic Crime Kathe', 'Kanni']",N/A,Reparto,N/A
+258,Manalo Okkadu,Sarath Babu,"['Criminal', 'Uthiri Pookkal']",1951,Reparto,N/A
+259,Manalo Okkadu,Vijay Das,"['Salaar. Part 1 - Ceasefire', 'Sooryavanshi']",N/A,"Efectos visuales, Dirección, Guion",N/A
+260,Manalo Okkadu,Sai Kumar,"['RangiTaranga', 'Prasthanam']",1960,"Reparto, Equipos adicionales, Música",7 premios y 5 nominaciones
+261,Manalo Okkadu,Nassar,"['Baahubali 2, la conclusión', 'Baahubali: The Beginning']",1958,"Reparto, Dirección, Guion",3 premios y 7 nominaciones
+262,Manalo Okkadu,R.P. Patnaik,"['Trigger', 'Manalo Okkadu']",N/A,"Composición, Dirección, Guion",N/A
+263,Manalo Okkadu,Gollapudi Maruthi Rao,"['Papam Pasivaadu', 'Deshoddharakudu']",1939,"Reparto, Guion, Dirección",Maruthirao Gollapudi
+264,Manalo Okkadu,Raja Ravindra,"['Spark: L.I.F.E.', 'Kannitheevu']",N/A,"Reparto, Producción",N/A
+265,Manalo Okkadu,Anita Hassanandani Reddy,"['Yeh Hai Mohabbatein', 'Kkavyanjali']",1980,"Reparto, Música",13 premios y 8 nominaciones
+266,Last Stop,Hani Al Naimi,"['En tierra hostil', 'Sleeper Cell']",agosto,"Reparto, Producción, Dirección",N/A
+267,Last Stop,Mari C. Blackwell,"['Forgiving the Franklins', 'Last Stop']",N/A,Reparto,N/A
+268,Last Stop,Robert Miano,"['Fast & Furious: Aún más rápido', 'Un perdedor con suerte']",1942,"Reparto, Producción, Guion",7 premios y 1 nominación
+269,Last Stop,Lisa London,"['Impacto súbito', 'The Morning Show']",junio,"Reparto, Producción",N/A
+270,Last Stop,Ludwig Manukian,"['Bosch', 'The OA']",1977,"Reparto, Guion, Dirección",N/A
+271,Last Stop,Vaz Andreas,"['Lucifer', 'Navy: Investigación criminal']",1978,"Reparto, Guion, Dirección",N/A
+272,Last Stop,Taline Verjine,"['Last Stop', 'Hackett']",1986,Reparto,N/A
+273,Last Stop,Jonathan Lanni,"['Last Stop', 'K-11']",N/A,Reparto,N/A
+274,Lifu Super,Sathvika Appaiah,"['2323 the Beginning', 'Sarvasvam']",N/A,Reparto,N/A
+275,Lifu Super,Niranth,"['Santhoshathil Kalavaram', 'Kaarni']",N/A,Reparto,N/A
+276,Lifu Super,Anu Poovamma,"['Kathah Vichitrah', 'Karva']",N/A,Reparto,N/A
+277,Thale Bachkolli Powder Hakkolli,Shankanada Anjanappa,"['Akasmika', 'Hudugaru']",N/A,Reparto,N/A
+278,Thale Bachkolli Powder Hakkolli,Vikram Arya,"['Thale Bachkolli Powder Hakkolli', 'Padmavathi']",N/A,Reparto,N/A
+279,Thale Bachkolli Powder Hakkolli,Chikkanna,"['Master Piece', 'Kotigobba 2']",N/A,"Reparto, Dirección, Música",3 premios y 3 nominaciones
+280,Thale Bachkolli Powder Hakkolli,Aman Grewal,"['Romeo Ranjha', 'Thale Bachkolli Powder Hakkolli']",N/A,Reparto,N/A
+281,Thale Bachkolli Powder Hakkolli,Honnavalli Krishna,"['Babruvahana', 'Anand']",N/A,"Reparto, Dirección de la segunda unidad o asistencia a dirección",N/A
+282,Thale Bachkolli Powder Hakkolli,Jaya Lakshmi,"['Thale Bachkolli Powder Hakkolli', 'Abhimanu']",N/A,Reparto,N/A
+283,Thale Bachkolli Powder Hakkolli,Nikhita,"['Kurumbu', 'Ssshhhh... Koi Hai']",1981,Reparto,N/A
+284,Thale Bachkolli Powder Hakkolli,Bullet Prakash,"['Bachchan', 'Bhajarangi']",2020,Reparto,N/A
+285,Dynamic,Vijay Jatti,"['Bharaate', 'Salute']",N/A,Reparto,N/A
+286,Dynamic,Harish Kalal,['Dynamic'],N/A,Reparto,N/A
+287,Dynamic,Navya Rao,"['Dynamic', 'Akka Chellelu']",N/A,Reparto,N/A
+288,Fearless,Michael Copon,"['One Tree Hill', 'El rey escorpión 2: El nacimiento del guerrero']",1982,"Reparto, Producción, Guion",N/A
+289,Fearless,John Patrick Jordan,"['Wolf Pack', 'Them']",N/A,"Reparto, Producción, Banda sonora",N/A
+290,Fearless,Nikki SooHoo,"['Stick It', 'The Lovely Bones']",1988,Reparto,N/A
+291,Fearless,Hayley Hasselhoff,"['Huge', 'Por qué matan las mujeres']",agosto,Reparto,N/A
+292,Fearless,Nikki Leigh,"['Silencer', 'Relaciones peligrosas']",septiembre,"Reparto, Banda sonora",1 premio
+293,Fearless,Veronika Dash,"['CSI: Vegas', 'iCarly']",N/A,"Reparto, Producción, Banda sonora",1 nominación
+294,Fearless,Kailyn Voris,"['La Migra', 'Fearless']",N/A,"Reparto, Equipos adicionales, Banda sonora",N/A
+295,Fearless,Rich Paul,['Godzilla'],enero,"Reparto, Producción, Banda sonora",2 premios
+296,Aakasamantha Prema,Rahasya Gorak,"['Aakasamantha Prema', 'Raja Vaaru Rani Gaaru']",N/A,Reparto,Rahasya
+297,Bliss!,Freya Parks,"['Jane Eyre', 'Los miserables']",octubre,Reparto,N/A
+298,Bliss!,Chloe Cuskin,"['Bliss!', 'The Sad Bear']",N/A,Reparto,N/A
+299,Bliss!,Reece Noi,"['Así nos ven', 'Juego de tronos']",1988,"Reparto, Guion",2 premios
+300,Bliss!,Lauren W. Johns,"['Pride/Orgullo', 'Bliss!']",1988,Reparto,Lauren Johns
+301,Bliss!,Montserrat Lombard,"['El imaginario del Doctor Parnassus', 'Love Soup']",1982,"Reparto, Guion, Dirección",2 nominaciones
+302,Bliss!,Hilary Tones,"['Ecstasy', 'Shardlake']",N/A,Reparto,Hilary Jones
+303,Bliss!,Fearne Brown,['Bliss!'],N/A,Reparto,N/A
+304,Bliss!,Philip Correia,"['Vera', 'Atlantis']",1984,Reparto,N/A
+305,Siganduru Chowdeshwari Mahime,Ramesh Bhat,"['Parameshi Prema Prasanga', 'Sangliyana Part- 3']",N/A,"Reparto, Producción, Dirección",N/A
+306,Siganduru Chowdeshwari Mahime,Girija Lokesh,"['Martin', 'Gajakesari']",N/A,Reparto,N/A
+307,Siganduru Chowdeshwari Mahime,Sanjana Naidu,"['Jadoo', 'Clue']",N/A,Reparto,N/A
+308,Siganduru Chowdeshwari Mahime,Shubha Poona,['Siganduru Chowdeshwari Mahime'],N/A,Reparto,N/A
+309,Siganduru Chowdeshwari Mahime,Shubha Punja,"['Siganduru Chowdeshwari Mahime', 'Naragunda Bandaaya']",N/A,Reparto,N/A
+310,Ramabai,Bank Janardhan,"['Uppi 2', 'Kotigobba 2']",N/A,Reparto,Swamiji
+311,Ramabai,Sidram Karanik,['Ramabai'],N/A,Reparto,N/A
+312,Ramabai,Mysore Ramanand,"['Kutumba', 'Hendtheer Darbar']",N/A,Reparto,N/A
+313,Ramabai,Yagna Shetty,"['ACT 1978', 'Killing Veerappan']",N/A,Reparto,N/A
+314,Mareyalaare,Avinash,"['Aaptharakshaka', '7aum Arivu']",N/A,"Reparto, Efectos visuales, Cámara y electricidad",1 premio y 1 nominación
+315,Mareyalaare,Pavitra Belliappa,"['Yashogathe', 'Mareyalaare']",N/A,Reparto,N/A
+316,Mareyalaare,Sharat Khadri,"['Sandalwood Sa Re Ga Ma', 'Mareyalaare']",N/A,"Dirección, Guion, Reparto",N/A
+317,Mareyalaare,Sadhu Kokila,"['Mr. Theertha', 'Mr. And Mrs. Ramchari']",1966,"Reparto, Composición, Música",2 premios y 5 nominaciones
+318,Mareyalaare,Malathishri,"['My Autograph', 'Sirivantha']",N/A,Reparto,N/A
+319,Mareyalaare,Mithra,"['Tiger', 'Raaga']",N/A,"Reparto, Producción",N/A
+320,Red,Raj Aryan,"['Red', 'City Dreams']",N/A,Reparto,N/A
+321,U the end A,Kumuda Gowda,['U the end A'],N/A,Reparto,N/A
+322,U the end A,Nagendra Karanik,['U the end A'],N/A,Reparto,N/A
+323,U the end A,Vijay Kumar,"['Uriyadi', 'Soorarai Pottru']",N/A,"Reparto, Guion, Producción",1 premio y 2 nominaciones
+324,U the end A,Deepti Mohan,['U the end A'],N/A,Reparto,N/A
+325,U the end A,Anant Nag,"['K.G.F: Chapter 1', 'Godhi Banna Sadharana Mykattu']",1948,"Reparto, Música, Guion",2 premios
+326,U the end A,Rangayana Raghu,"['Johny Mera Naam Preethi Mera Kaam', 'Hudugaru']",N/A,"Reparto, Música, Banda sonora",1 premio y 8 nominaciones
+327,Prakruthiya Madilu Banavasi,Lochan Barga,['Prakruthiya Madilu Banavasi'],N/A,Reparto,N/A
+328,Prakruthiya Madilu Banavasi,Ramesh Bhat,"['Parameshi Prema Prasanga', 'Sangliyana Part- 3']",N/A,"Reparto, Producción, Dirección",N/A
+329,Prakruthiya Madilu Banavasi,Sanatani,"['Crazy Kutumba', 'Prakruthiya Madilu Banavasi']",N/A,Reparto,N/A
+330,400,Prakash Kabettu,['400'],N/A,"Dirección, Reparto, Guion",N/A
+331,400,Sandeep Kumar,"['400', 'Indogma Film Festival 2018']",N/A,"Reparto, Dirección de fotografía y cámara",N/A
+332,Dandu,Ramesh Bhat,"['Parameshi Prema Prasanga', 'Sangliyana Part- 3']",N/A,"Reparto, Producción, Dirección",N/A
+333,Dandu,Raghu Kumar Karumanchi,"['Brindaavanam', 'Spark: L.I.F.E.']",N/A,Reparto,N/A
+334,Dandu,Akhila Kishore,"['Moondraam Ullaga Por', 'Innimey Ippadithaan']",N/A,Reparto,N/A
+335,Dandu,Sai Kumar,"['RangiTaranga', 'Prasthanam']",1960,"Reparto, Equipos adicionales, Música",7 premios y 5 nominaciones
+336,Dandu,Disha Poovaiah,"['Shivu Paru', 'Police Story 3']",N/A,Reparto,N/A
+337,Dandu,Thagubothu Ramesh,"['Eega', 'Gunde Jaari Gallanthayyinde']",N/A,"Reparto, Música",N/A
+338,Dandu,Neha Saxena,"['Game', 'Rickshaw Driver']",1989,Reparto,N/A
+339,Mahaveera Machideva,Charulatha,"['Vrudhanmare Sookshikkuka', 'Rani Aur Jaani']",N/A,Reparto,N/A
+340,Apsare,Ashok Kheny,"['Prem Kaa Game', 'Prasad']",N/A,"Reparto, Producción, Dirección",N/A
+341,Chadurida Karmoda,Prabhakar Banger,['Chadurida Karmoda'],N/A,Reparto,N/A
+342,Chadurida Karmoda,Surekha Bhatt,['Chadurida Karmoda'],N/A,Reparto,N/A
+343,Chadurida Karmoda,Dharani,"['Sathuranga Vettai', 'Astakarmma']",N/A,Reparto,N/A
+344,Chadurida Karmoda,Gangadhar,['Chadurida Karmoda'],N/A,Reparto,N/A
+345,Chadurida Karmoda,Sathish Gowda,"['Tilineeru', 'Chadurida Karmoda']",N/A,Reparto,N/A
+346,Chadurida Karmoda,Smitha Gowda,['Chadurida Karmoda'],N/A,Reparto,N/A
+347,Half Mentlu,Lakshmi Devamma,"['Bharaate', 'Bisile']",N/A,Reparto,N/A
+348,Half Mentlu,Sonu Gowda,"['Yuvarathnaa', 'Kiragoorina Gayyaligalu']",1990,Reparto,3 nominaciones
+349,Half Mentlu,Mohan Juneja,"['K.G.F: Chapter 2', 'K.G.F: Chapter 1']",2021,"Reparto, Guion",N/A
+350,Half Mentlu,Achyuth Kumar,"['Kantara', 'K.G.F: Chapter 1']",1966,Reparto,5 premios y 5 nominaciones
+351,Half Mentlu,Mico Nagaraj,"['Mandya to Mumbai', 'Kariya']",N/A,"Reparto, Producción",N/A
+352,Kala Bhairava,Neenasam Ashwath,"['K.G.F: Chapter 1', 'Vishnuvardhana']",N/A,Reparto,Nenasam Ashwath
+353,Kala Bhairava,Malavika Avinash,"['K.G.F: Chapter 1', 'Kaithi']",N/A,"Reparto, Dirección",N/A
+354,Kala Bhairava,Mestri Balu,['Kala Bhairava'],N/A,Reparto,N/A
+355,Kala Bhairava,Akhila Kishore,"['Moondraam Ullaga Por', 'Innimey Ippadithaan']",N/A,Reparto,N/A
+356,Kala Bhairava,Sadhu Kokila,"['Mr. Theertha', 'Mr. And Mrs. Ramchari']",1966,"Reparto, Composición, Música",2 premios y 5 nominaciones
+357,Kala Bhairava,Sharath Lohitashwa,"['Aa Dinagalu', 'Saarathi']",1972,Reparto,N/A
+358,Kala Bhairava,Suchendra Prasad,"['Brahma', 'Kempe Gowda 2']",N/A,Reparto,Suchendra Prasad K
+359,Shivayogi Sri Puttayyajja,Abhijit Ghosh,['Shivayogi Sri Puttayyajja'],N/A,Reparto,N/A
+360,Preethi Kithabu,Avinash,"['Aaptharakshaka', '7aum Arivu']",N/A,"Reparto, Efectos visuales, Cámara y electricidad",1 premio y 1 nominación
+361,Preethi Kithabu,Pavithra Gowda,"['54321', 'Preethi Kithabu']",N/A,Reparto,N/A
+362,CBI Sathya,Archana,"['Amma Nagamma', 'A: Film by Upendra']",N/A,Reparto,N/A
+363,CBI Sathya,Doddanna,"['Aatagadharaa Siva', 'Ajay']",N/A,"Reparto, Música",1 nominación
+364,CBI Sathya,Tennis Krishna,"['Uppi 2', 'Veera Madakari']",N/A,"Reparto, Música, Banda sonora",N/A
+365,CBI Sathya,Thriller Manju,"['Jayahe', 'Police Story 3']",N/A,"Reparto, Especialistas, Dirección",N/A
+366,CBI Sathya,Shobha Raghavendra,"['Janumada Jodi', 'Tungabhadra']",N/A,Reparto,N/A
+367,Madhura Swapna,Avinash,"['Aaptharakshaka', '7aum Arivu']",N/A,"Reparto, Efectos visuales, Cámara y electricidad",1 premio y 1 nominación
+368,Madhura Swapna,Mukhyamantri Chandru,"['Shanti Kranti', 'Guri']",N/A,"Reparto, Música",N/A
+369,Madhura Swapna,Arjun Kapikad,"['Purushothamana Prasanga', 'Abatara Maternala']",N/A,"Reparto, Dirección, Música",N/A
+370,Madhura Swapna,Ashok Narasimhaiah,['Madhura Swapna'],N/A,Reparto,N/A
+371,Madhura Swapna,Keerthana Podwal,"['Nanna Kanasina Hoove', 'Madhura Swapna']",N/A,Reparto,N/A
+372,Madhura Swapna,Vinaya Prasad,"['Krishnagudiyil Oru Pranayakalathu', 'Manichitrathazhu']",1965,"Reparto, Composición, Edición",N/A
+373,Bheeshma,Kishore Kumar G.,"['Ponniyin Selvan: Part One', 'Kantara']",1974,"Reparto, Producción",1 premio y 6 nominaciones
+374,Bheeshma,Honnavalli Krishna,"['Babruvahana', 'Anand']",N/A,"Reparto, Dirección de la segunda unidad o asistencia a dirección",N/A
+375,Bheeshma,Bullet Prakash,"['Bachchan', 'Bhajarangi']",2020,Reparto,N/A
+376,Bheeshma,Hardhika Shetty,"['Bheeshma', 'Angaaraka']",N/A,Reparto,N/A
+377,Raj Bahaddur,Anitha Bhat,"['Kanneri', 'Psycho']",1985,Reparto,Anita Bhat
+378,Raj Bahaddur,Thriller Manju,"['Jayahe', 'Police Story 3']",N/A,"Reparto, Especialistas, Dirección",N/A
+379,Raj Bahaddur,Shankar Patil,"['Vamshakobba', 'Raj Bahaddur']",N/A,Reparto,N/A
+380,Raj Bahaddur,Saikumar Pudipeddi,"['Raj Bahaddur', 'Upendra Matte Baa']",N/A,Reparto,N/A
+381,Raj Bahaddur,Harish Rai,"['K.G.F: Chapter 1', 'K.G.F: Chapter 2']",N/A,Reparto,N/A
+382,Raj Bahaddur,Manadip Rai,['Raj Bahaddur'],N/A,Reparto,N/A
+383,Raj Bahaddur,Puneeth Rajkumar,"['Hudugaru', 'Raajakumara']",1975,"Reparto, Música, Producción",16 premios y 9 nominaciones
+384,Supari Surya,Nyra Banerjee,"['Tiger', 'Temper']",1987,"Reparto, Dirección de la segunda unidad o asistencia a dirección",N/A
+385,Supari Surya,Sadhu Kokila,"['Mr. Theertha', 'Mr. And Mrs. Ramchari']",1966,"Reparto, Composición, Música",2 premios y 5 nominaciones
+386,Supari Surya,Sharath Lohitashwa,"['Aa Dinagalu', 'Saarathi']",1972,Reparto,N/A
+387,Sri Sathyanarayana,Ramya Barna,"['Hudugaru', 'Lifeu Ishtene']",N/A,Reparto,N/A
+388,Sri Sathyanarayana,Jai Jagdeesh,"['Madana', 'Kurigalu Saar Kurigalu']",N/A,"Reparto, Producción, Dirección",N/A
+389,Sri Sathyanarayana,Harish Raj,"['Pretha', 'Kalaakaar']",N/A,"Reparto, Dirección, Guion",N/A
+390,Bilindar,Vijay Basrur,"['Girmit', 'Kataka']",N/A,"Reparto, Dirección de producción",N/A
+391,Mangaata,Achyuth Kumar,"['Kantara', 'K.G.F: Chapter 1']",1966,Reparto,5 premios y 5 nominaciones
+392,Mangaata,Mamatha Rahuth,"['Yada Yada Hi Dharmasya', 'Manassu: a Psychological Thriller']",N/A,Reparto,Mamatha Raut
+393,Dress Code,Shivu Balaji,"['Dress Code', 'Raktha Shasana']",N/A,Reparto,N/A
+394,Dress Code,Divya,['Dress Code'],N/A,Reparto,N/A
+395,Yashogathe,Pavitra Belliappa,"['Yashogathe', 'Mareyalaare']",N/A,Reparto,N/A
+396,Yashogathe,Girish Bijjal,"['Bhavachitra', 'Gangster Alla Prankster']",N/A,Reparto,N/A
+397,Yashogathe,Manasa Joshi,"['Evidence', 'Amruth Apartments']",N/A,Reparto,N/A
+398,Yashogathe,James North,['Yashogathe'],N/A,Reparto,N/A
+399,Yashogathe,Sathish Rudra,['Yashogathe'],N/A,Reparto,N/A
+400,Yashogathe,Sujith Shetty,"['Ardhambardha Premakathe', 'Yashogathe']",N/A,Reparto,N/A
+401,Yashogathe,Surya Suresh,"['Yashogathe', 'Trisha']",N/A,Reparto,N/A
+402,Brahma Vishnu Maheshwara,Sunil Bhalder,['Brahma Vishnu Maheshwara'],N/A,Reparto,N/A
+403,Brahma Vishnu Maheshwara,Anjan Dev,"['Mayuran', 'Instant Karma']",N/A,Reparto,N/A
+404,Brahma Vishnu Maheshwara,Kirti Laxmi,['Brahma Vishnu Maheshwara'],N/A,Reparto,N/A
+405,Brahma Vishnu Maheshwara,Roopa Nataraj,"['Kumari Mallika', 'Lisa']",N/A,Reparto,N/A
+406,Brahma Vishnu Maheshwara,Jeevitha Pillappa,"['Deal', 'Brahma Vishnu Maheshwara']",N/A,Reparto,N/A
+407,Brahma Vishnu Maheshwara,Sanjana Prakash,"['Krodha', 'Homeless: 5050 AD']",N/A,"Reparto, Dirección",N/A
+408,Sakkath Risk,Raju .G.S.,['Sakkath Risk'],N/A,Reparto,N/A
+409,Sakkath Risk,Riya Devadiga,['Sakkath Risk'],N/A,Reparto,N/A
+410,Sakkath Risk,Kavya Gowda,"['Thamisra', 'Buckasura']",N/A,Reparto,N/A
+411,Sakkath Risk,Manju Karadapudi,['Sakkath Risk'],N/A,Reparto,N/A
+412,Sakkath Risk,Ravi Krishnan,['Sakkath Risk'],N/A,Reparto,N/A
+413,Sakkath Risk,Arish Kumar,"['Kaadhal 2014', 'Sakkath Risk']",N/A,Reparto,N/A
+414,Sakkath Risk,Shiva Kumar,['Sakkath Risk'],N/A,Reparto,N/A
+415,Sakkath Risk,Susai Kumar,"['Sakkath Risk', 'Nagadevathe']",N/A,Reparto,N/A
+416,Lehya Ajji Lehya,K.S. Smruthi Gowda,['Lehya Ajji Lehya'],N/A,Reparto,N/A
