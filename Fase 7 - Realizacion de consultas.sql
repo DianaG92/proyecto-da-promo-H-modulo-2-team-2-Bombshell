@@ -1,11 +1,15 @@
 -- Fase 7: Realización de Consultas para Obtener Información.
 
+USE proyecto_cinemextract;
+
 -- 1. ¿Qué géneros han recibido más premios Óscar?
 SELECT Genero, COUNT(o.ID_titulo) AS total_premios
 FROM informacion_peliculas AS i
 JOIN premios_oscar AS o
 ON i.ID_titulo = o.ID_titulo
-GROUP BY Genero;
+GROUP BY Genero
+ORDER BY total_premios DESC;
+
 
 -- 2. ¿Qué género es el mejor valorado en IMDB?
 SELECT AVG(Puntuacion_IMDB) AS promedio, Genero
@@ -23,7 +27,7 @@ GROUP BY Año, Tipo
 ORDER BY estrenos DESC;
 
 -- 4. ¿En que año se estrenaron mas cortos?
-SELECT COUNT(Año) AS estrenos, Año
+SELECT COUNT(Año) AS estrenos, Año, Tipo
 FROM informacion_peliculas
 WHERE tipo = "short"
 GROUP BY Año
@@ -56,7 +60,17 @@ WHERE Año = 2012;
 -- PENDIENTE DE TERMINAR LA FASE 3 --
 
 -- 8. ¿Hay algun actor/actriz que haya recibido más de un premio Óscar?
-SELECT mejor_actor, mejor_actriz
+
+-- Consulta para mejor actor
+SELECT mejor_actor AS nombre, COUNT(*) AS premios
 FROM premios_oscar
-GROUP BY mejor_actor, mejor_actriz
-HAVING COUNT(mejor_actor) > 1 AND COUNT(mejor_actriz) > 1;
+GROUP BY mejor_actor
+HAVING premios > 1
+
+UNION ALL
+
+-- Consulta para mejor actriz
+SELECT mejor_actriz AS nombre, COUNT(*) AS premios
+FROM premios_oscar
+GROUP BY mejor_actriz
+HAVING premios > 1;
