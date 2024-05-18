@@ -1,10 +1,17 @@
-#Proyecto Bombshell
+# Proyecto Bombshell
 
-Nos contacto BHO, la plataforma de transmisión, quien está en una continua exploración para mejorar la excelencia de su material y la felicidad de sus usuarios.
+Project Owner : Violaine Deloustal
+Scrum Master : Raquel Castellanos
+Developer : Patricia G.
+Developer : Lidia Fraile
+Developer : Diana García
+
+Nos contacto BHO quien está en una continua exploración para mejorar la excelencia de su material y la felicidad de sus usuarios.
 
 El proyecto Bombshell consiste en aplicar técnicas de análisis de datos para identificar cuáles son las películas y cortometrajes más populares y mejor valorados desde 2010 hasta la fecha. 
 
 Se ha dividido el proyecto en 7 fases:
+
 Fase 1: Extracción de Datos de API de MoviesDataset
 Fase 2: Extracción de Detalles de Películas con Selenium
 Fase 3: Extracción de Detalles de Actores con Selenium
