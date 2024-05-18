@@ -51,7 +51,7 @@ ORDER BY Puntuacion_IMDB DESC
 LIMIT 2;  -- opcional: para ver los dos primeros resultados (en este caso concreto, hay dos películas con la misma puntuación) --
 
 -- 7. ¿Qué actor/actriz ha recibido más premios?
-SELECT DISTINCT nombre_actor, premios
+SELECT DISTINCT nombre_actor, premios, profesion
 FROM informacion_actores
 ORDER BY premios DESC
 LIMIT 1;
