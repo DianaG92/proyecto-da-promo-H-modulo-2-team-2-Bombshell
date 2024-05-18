@@ -8,23 +8,26 @@ FROM informacion_peliculas AS i
 JOIN premios_oscar AS o
 ON i.ID_titulo = o.ID_titulo
 GROUP BY Genero
-ORDER BY total_premios DESC;
+ORDER BY total_premios DESC
+LIMIT 1;
 
 
 -- 2. ¿Qué género es el mejor valorado en IMDB?
-SELECT AVG(Puntuacion_IMDB) AS promedio, Genero
+SELECT AVG(Puntuacion_IMDB) AS promedioValoracion, Genero
 FROM informacion_peliculas AS i
 JOIN detalles_peliculas AS d
 ON i.ID_titulo = d.ID_titulo
 GROUP BY Genero
-ORDER BY promedio DESC;
+ORDER BY promedioValoracion DESC
+LIMIT 1;
 
 -- 3. ¿En que año se estrenaron más películas?
-SELECT COUNT(ID_titulo) AS estrenos, Año, Tipo
+SELECT COUNT(ID_titulo) AS TotalEstrenos, Año, Tipo
 FROM informacion_peliculas
 WHERE tipo LIKE "Movie"
 GROUP BY Año, Tipo
-ORDER BY estrenos DESC;
+ORDER BY TotalEstrenos DESC
+LIMIT 1;
 
 -- 4. ¿En que año se estrenaron mas cortos?
 SELECT COUNT(Año) AS estrenos, Año, Tipo
@@ -52,6 +55,14 @@ SELECT mejor_actor,mejor_actriz, COUNT(*) AS total_premios
 FROM premios_oscar
 GROUP BY mejor_actriz,mejor_actor
 ORDER BY total_premios;
+
+SELECT count(nombre_actor) AS totalactor, nombre_actor, sum(premios) TotalPremios
+FROM informacion_actores
+group by nombre_actor, premios;
+
+
+
+
 
 SELECT COUNT(ID_titulo) AS estrenos, Año
 FROM informacion_peliculas
