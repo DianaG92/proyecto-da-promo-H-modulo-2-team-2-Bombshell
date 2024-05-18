@@ -1,10 +1,10 @@
 # Proyecto Bombshell
 
-Project Owner : Violaine Deloustal
-Scrum Master : Raquel Castellanos
-Developer : Patricia G.
-Developer : Lidia Fraile
-Developer : Diana García
+- Project Owner : Violaine Deloustal                                      
+- Scrum Master : Raquel Castellanos
+- Developer : Patricia G.
+- Developer : Lidia Fraile
+- Developer : Diana García
 
 Nos contacto BHO quien está en una continua exploración para mejorar la excelencia de su material y la felicidad de sus usuarios.
 
