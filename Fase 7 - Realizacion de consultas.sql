@@ -51,27 +51,15 @@ ORDER BY Puntuacion_IMDB DESC
 LIMIT 2;  -- opcional: para ver los dos primeros resultados (en este caso concreto, hay dos películas con la misma puntuación) --
 
 -- 7. ¿Qué actor/actriz ha recibido más premios?
-SELECT mejor_actor,mejor_actriz, COUNT(*) AS total_premios
-FROM premios_oscar
-GROUP BY mejor_actriz,mejor_actor
-ORDER BY total_premios;
-
-SELECT count(nombre_actor) AS totalactor, nombre_actor, sum(premios) TotalPremios
+SELECT DISTINCT nombre_actor, premios
 FROM informacion_actores
-group by nombre_actor, premios;
+ORDER BY premios DESC
+LIMIT 1;
 
 
 
-
-
-SELECT COUNT(ID_titulo) AS estrenos, Año
-FROM informacion_peliculas
-WHERE Año = 2012;
-
--- PENDIENTE DE TERMINAR LA FASE 3 --
 
 -- 8. ¿Hay algun actor/actriz que haya recibido más de un premio Óscar?
-
 -- Consulta para mejor actor
 SELECT mejor_actor AS nombre, COUNT(*) AS premios
 FROM premios_oscar
