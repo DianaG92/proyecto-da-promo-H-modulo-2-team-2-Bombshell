@@ -1,5 +1,6 @@
 # Proyecto Bombshell
 
+El equipo :
 - Project Owner : Violaine Deloustal                                      
 - Scrum Master : Raquel Castellanos
 - Developer : Patricia G.
@@ -21,3 +22,13 @@ Fase 6: Inserción de Datos en la Base de Datos
 Fase 7: Realización de Consultas para Obtener Información
 
 Los objetivos principales eran de consolidar nuestros conocimientos tanto en Python como en MySQL. Aprender a usar el control de versiones en equipo para gestionar los conflictos y disfrutar de las ventajas. Contamos con un PO y una SCRUM master diferente cada semana que nos han ayudado a mejor la comunicación entre nosotras y organizarnos como equipo.
+
+### Uso de herramientas : 
+- MySQL
+- Python
+- Selenium
+- BeautifulSoup
+- Api
+- Pandas
+- Genially
+- Excel
