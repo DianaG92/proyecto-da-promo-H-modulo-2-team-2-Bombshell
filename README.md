@@ -44,4 +44,4 @@ Extrajimos más de 34.000 películas mediante la API.
 Sacamos información de más de 16.000 actores que aparecían en esas películas.
 Descubrimos los principales premiados en los Óscar desde el 2011 hasta ahora.
 
-![Gif bombshell movie](C:\Users\34679\OneDrive\Documentos\ADALAB\Repos\MODULO 2\PROYECTO GRUPAL\proyecto-da-promo-H-modulo-2-team-2-Bombshell\Bombshell.gif)
+![Git Bombshell movie](Bombshell.gif)
